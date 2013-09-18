@@ -1,0 +1,11 @@
+Name Toolbox
+ShortName toolbox
+Icon ToolBox
+Colour 255 255 255
+ItemID 13999
+Heal false
+Repair true
+HealAmount 10
+ToolLife 100
+DestroyOnEmpty true
+StackSize 1
